@@ -1,0 +1,9 @@
+Hola, primero tienes que crear la base de datos...
+    El nombre de la base de datos es: sample
+
+Luego, ejecutar las migraciones:
+    php artisan migrate
+
+Saludos.
+Ing. Gonzalo Peñaherrera E.
+Quito - Ecuador.
